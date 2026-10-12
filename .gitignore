@@ -1,0 +1,7 @@
+# Ignore large ROM & GApps files (>100MB)
+rom/*.zip
+
+# Temporary and log files
+*.tmp
+*.log
+*.st
